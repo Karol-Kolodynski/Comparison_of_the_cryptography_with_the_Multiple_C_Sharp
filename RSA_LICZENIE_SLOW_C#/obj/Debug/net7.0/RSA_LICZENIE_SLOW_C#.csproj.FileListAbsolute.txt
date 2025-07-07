@@ -1,0 +1,14 @@
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\obj\Debug\net7.0\RSA_LICZENIE_SLOW_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\obj\Debug\net7.0\RSA_LICZENIE_SLOW_C#.AssemblyInfoInputs.cache
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\obj\Debug\net7.0\RSA_LICZENIE_SLOW_C#.AssemblyInfo.cs
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\obj\Debug\net7.0\RSA_LICZENIE_SLOW_C#.csproj.CoreCompileInputs.cache
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\bin\Debug\net7.0\RSA_LICZENIE_SLOW_C#.exe
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\bin\Debug\net7.0\RSA_LICZENIE_SLOW_C#.deps.json
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\bin\Debug\net7.0\RSA_LICZENIE_SLOW_C#.runtimeconfig.json
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\bin\Debug\net7.0\RSA_LICZENIE_SLOW_C#.dll
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\bin\Debug\net7.0\RSA_LICZENIE_SLOW_C#.pdb
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\obj\Debug\net7.0\RSA_LICZENIE_SLOW_C#.dll
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\obj\Debug\net7.0\refint\RSA_LICZENIE_SLOW_C#.dll
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\obj\Debug\net7.0\RSA_LICZENIE_SLOW_C#.pdb
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\obj\Debug\net7.0\RSA_LICZENIE_SLOW_C#.genruntimeconfig.cache
+C:\Users\itsno\source\repos\RSA_LICZENIE_SLOW_C#\RSA_LICZENIE_SLOW_C#\obj\Debug\net7.0\ref\RSA_LICZENIE_SLOW_C#.dll
